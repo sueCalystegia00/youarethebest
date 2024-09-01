@@ -6,5 +6,7 @@ services:
       - .:/app
       - ./node_modules:/app/node_modules:delegated
     tty: true
+    environment:
+      - WATCHPACK_POLLING=true
     ports:
       - "5173:5173"
