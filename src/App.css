@@ -4,3 +4,24 @@
 	padding: 2rem;
 	text-align: center;
 }
+
+.App {
+	text-align: center;
+	margin-top: 50px;
+}
+
+img {
+	width: 80%;
+	height: auto;
+}
+
+.explain {
+	height: 84px;
+	margin: 20px;
+}
+
+.comment {
+	margin: 20px;
+	font-size: 3.5rem;
+	font-weight: 800;
+}
